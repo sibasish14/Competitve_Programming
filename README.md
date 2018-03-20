@@ -6,6 +6,6 @@ This repository contains my codes for various programming questions solved on we
 * Codeforces - [sibasish_14](www.codeforces.com/profile/sibasish_14)
 * LinkedIn - [Sibasish Ghosh](https://www.linkedin.com/in/sibasish-ghosh-b9292615b)
 
-** like what you see then give it a :star2: 
+** like what you see, then give it a :star2: 
 
 :smile: :smile:
